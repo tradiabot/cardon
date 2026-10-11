@@ -4,6 +4,7 @@ Página de presentación y guía de marca de **Cardón DeFi · Agente de Trading
 
 - Sitio: https://tradiabot.github.io/cardon/
 - Marca: https://tradiabot.github.io/cardon/brand.html
+- App y código: https://github.com/tradiabot/cardon-defi
 - Logos e iconos: carpeta `assets/`
 
 Sitio estático (HTML, CSS y un script para cambiar de idioma). Sin dependencias ni compilación.
