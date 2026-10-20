@@ -70,3 +70,4 @@ table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;p
 .tbl{overflow-x:auto}
 :focus-visible{outline:2px solid var(--mint);outline-offset:3px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.com-count{margin:10px 0 0;font:500 12px var(--mono);color:var(--muted)}
